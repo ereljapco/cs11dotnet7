@@ -1,0 +1,15 @@
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Numbers/bin/Debug/net7.0/Numbers
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Numbers/bin/Debug/net7.0/Numbers.deps.json
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Numbers/bin/Debug/net7.0/Numbers.runtimeconfig.json
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Numbers/bin/Debug/net7.0/Numbers.dll
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Numbers/bin/Debug/net7.0/Numbers.pdb
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Numbers/obj/Debug/net7.0/Numbers.csproj.AssemblyReference.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Numbers/obj/Debug/net7.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Numbers/obj/Debug/net7.0/Numbers.AssemblyInfoInputs.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Numbers/obj/Debug/net7.0/Numbers.AssemblyInfo.cs
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Numbers/obj/Debug/net7.0/Numbers.csproj.CoreCompileInputs.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Numbers/obj/Debug/net7.0/Numbers.dll
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Numbers/obj/Debug/net7.0/refint/Numbers.dll
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Numbers/obj/Debug/net7.0/Numbers.pdb
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Numbers/obj/Debug/net7.0/Numbers.genruntimeconfig.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Numbers/obj/Debug/net7.0/ref/Numbers.dll

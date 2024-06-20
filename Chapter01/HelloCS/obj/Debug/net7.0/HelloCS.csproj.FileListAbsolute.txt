@@ -1,0 +1,15 @@
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/HelloCS/bin/Debug/net7.0/HelloCS
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/HelloCS/bin/Debug/net7.0/HelloCS.deps.json
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/HelloCS/bin/Debug/net7.0/HelloCS.runtimeconfig.json
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/HelloCS/bin/Debug/net7.0/HelloCS.dll
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/HelloCS/bin/Debug/net7.0/HelloCS.pdb
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/HelloCS/obj/Debug/net7.0/HelloCS.csproj.AssemblyReference.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/HelloCS/obj/Debug/net7.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/HelloCS/obj/Debug/net7.0/HelloCS.AssemblyInfoInputs.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/HelloCS/obj/Debug/net7.0/HelloCS.AssemblyInfo.cs
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/HelloCS/obj/Debug/net7.0/HelloCS.csproj.CoreCompileInputs.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/HelloCS/obj/Debug/net7.0/HelloCS.dll
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/HelloCS/obj/Debug/net7.0/refint/HelloCS.dll
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/HelloCS/obj/Debug/net7.0/HelloCS.pdb
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/HelloCS/obj/Debug/net7.0/HelloCS.genruntimeconfig.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/HelloCS/obj/Debug/net7.0/ref/HelloCS.dll

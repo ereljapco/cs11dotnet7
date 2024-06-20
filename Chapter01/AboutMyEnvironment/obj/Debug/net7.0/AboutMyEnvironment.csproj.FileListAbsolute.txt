@@ -1,0 +1,15 @@
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment.deps.json
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment.runtimeconfig.json
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment.dll
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment.pdb
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.csproj.AssemblyReference.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.AssemblyInfoInputs.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.AssemblyInfo.cs
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.csproj.CoreCompileInputs.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.dll
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/AboutMyEnvironment/obj/Debug/net7.0/refint/AboutMyEnvironment.dll
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.pdb
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.genruntimeconfig.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter01/AboutMyEnvironment/obj/Debug/net7.0/ref/AboutMyEnvironment.dll

@@ -1,0 +1,15 @@
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/Formatting.csproj.AssemblyReference.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/Formatting.AssemblyInfoInputs.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/Formatting.AssemblyInfo.cs
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Formatting/bin/Debug/net7.0/Formatting
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Formatting/bin/Debug/net7.0/Formatting.deps.json
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Formatting/bin/Debug/net7.0/Formatting.runtimeconfig.json
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Formatting/bin/Debug/net7.0/Formatting.dll
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Formatting/bin/Debug/net7.0/Formatting.pdb
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/Formatting.dll
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/refint/Formatting.dll
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/Formatting.pdb
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/Formatting.genruntimeconfig.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Formatting/obj/Debug/net7.0/ref/Formatting.dll

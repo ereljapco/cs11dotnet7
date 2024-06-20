@@ -1,0 +1,15 @@
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/Vocabulary.csproj.AssemblyReference.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/Vocabulary.AssemblyInfoInputs.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/Vocabulary.AssemblyInfo.cs
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/Vocabulary.csproj.CoreCompileInputs.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Vocabulary/bin/Debug/net7.0/Vocabulary
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Vocabulary/bin/Debug/net7.0/Vocabulary.deps.json
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Vocabulary/bin/Debug/net7.0/Vocabulary.runtimeconfig.json
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Vocabulary/bin/Debug/net7.0/Vocabulary.dll
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Vocabulary/bin/Debug/net7.0/Vocabulary.pdb
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/Vocabulary.dll
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/refint/Vocabulary.dll
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/Vocabulary.pdb
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/Vocabulary.genruntimeconfig.cache
+/Users/erelropeta/Code/cs11dotnet7/Chapter02/Vocabulary/obj/Debug/net7.0/ref/Vocabulary.dll
